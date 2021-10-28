@@ -14,6 +14,6 @@ public class LuizAndre {
         OutputStreamWriter writer = new OutputStreamWriter(output);
         BufferedWriter bw = new BufferedWriter(writer);
         bw.write("" + 23234523);
-
+        
     }
 }
