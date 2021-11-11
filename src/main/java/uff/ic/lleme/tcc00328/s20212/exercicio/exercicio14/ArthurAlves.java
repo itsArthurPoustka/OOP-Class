@@ -1,5 +1,5 @@
 
-package uff.ic.lleme.tcc00328.s20212.exercicio.exercicio2;
+package uff.ic.lleme.tcc00328.s20212.exercicio.exercicio14;
 
 import java.util.Scanner;
 
