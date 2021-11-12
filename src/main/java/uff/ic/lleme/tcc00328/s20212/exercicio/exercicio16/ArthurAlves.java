@@ -1,5 +1,5 @@
 
-package uff.ic.lleme.tcc00328.s20212.prova.p1.exercicio16;
+package uff.ic.lleme.tcc00328.s20212.exercicio.exercicio16;
 
 public class ArthurAlves {
     public static void main(String[] args) {
