@@ -1,0 +1,4 @@
+3 Pastel 2 Refil_Suco 3 Pao_De_Queijo 2
+1 Cachorro_Quente 1
+2 Italiano 2 Refil_Suco 1
+2 Pastel 4 Refil_Suco 3
