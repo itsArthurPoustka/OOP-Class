@@ -13,7 +13,7 @@ public class MediaMain {
             List<Double> valores = new ArrayList<>();
 
             for(int i = 0; i < 100000; i++){
-                valores.add(Math.random() * 11);
+                valores.add(Math.random() * 10);
             }
 
             ForkMean fb = new ForkMean(valores, somaAcumulada);
