@@ -1,4 +1,4 @@
-package uff.ic.lleme.tcc00328.s20212.prova.p2.ArthurAlves.Q2;
+ package uff.ic.lleme.tcc00328.s20212.prova.p2.ArthurAlves.Q2;
 
 import java.util.ArrayList;
 import java.util.List;
